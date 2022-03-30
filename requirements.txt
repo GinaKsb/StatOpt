@@ -1,0 +1,7 @@
+# Packages required are:
+
+plotly
+scipy
+numpy
+pandas
+matplotlib.pyplot
